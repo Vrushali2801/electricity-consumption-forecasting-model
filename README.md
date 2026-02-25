@@ -102,12 +102,6 @@ python main.py
 - LSTM/GRU for sequence modeling
 - Ensemble methods (stacking, blending)
 
-**If Deploying to Production:**
-- Add API for real-time predictions
-- Automated retraining pipeline with new data
-- Model versioning (MLflow)
-- Performance monitoring dashboard
-
 ---
 
 ## Key Findings
