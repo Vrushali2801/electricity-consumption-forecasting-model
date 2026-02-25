@@ -116,8 +116,3 @@ python main.py
 2. **Strong temporal patterns** - Clear daily and weekly cycles
 3. **Tree models win** - Gradient Boosting outperforms linear baseline (RMSE: 0.218 vs 0.229)
 
----
-
-**Analysis completed in ~2.5 hours**
-
-
